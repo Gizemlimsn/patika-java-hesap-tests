@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class Notort {
     public static void main(String[] args) {
         int mat,fizik,kimya,turkce,tarih,muzik,ort;
         String sonuc;
