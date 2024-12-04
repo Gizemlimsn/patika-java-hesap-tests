@@ -7,8 +7,8 @@ Girilen tutar 0 ve 1000 TL arasında ise KDV oranı %18 ,1000 TL'den büyük ise
 # Üçgen problemleri --->> Ucgen.java
 Üçgen hipotenüsünü bulan ve alan problemlerini çözen program
 ### Formül
-```math
-       hipotenüs=sqrt{(a^2+b^2)}
+```
+       hipotenüs=$\sqrt{(a^2+b^2)}$
 ```
 ```txt
         // Üç𝑔𝑒𝑛𝑖𝑛 ç𝑒𝑣𝑟𝑒𝑠𝑖 = 2𝑢
