@@ -23,7 +23,7 @@ public class hesapmakinesi {
                 System.out.println("Çarpma: "+(n1*n2));
                 break;
             case 4:
-                if(n1!=0 & n2!=0){
+                if(n1!=0 && n2!=0){
                     System.out.println("Bölme: "+(n1/n2));
                 }else{System.out.println("0 sayısı ile bölme işlemi yapılamaz.");}
                 break;
